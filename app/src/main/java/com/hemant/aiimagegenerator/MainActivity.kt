@@ -122,7 +122,7 @@ class MainActivity : AppCompatActivity() {
                     // adding headers on below line.
                     params["Content-Type"] = "application/json"
                     params["Authorization"] =
-                        "Bearer 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"
+                        "Bearer Enter Your Key"
                     return params
                 }
             }
